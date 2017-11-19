@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SourceCodeWebThiTiengAnh/SourceCodeWebThiTiengAnh/bin
+/SourceCodeWebThiTiengAnh/SourceCodeWebThiTiengAnh/obj/Debug
+*.lock
