@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Shop.Models.Entities.Image>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div class="col-xs-12">
+    <h2>Index</h2>
+
+    <p>
+        @Html.ActionLink("Create New", "ViewADD")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayName("image")
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.active)
+            </th>
+            <th>
+                @Html.DisplayName("Product")
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <img src="@Url.Content(item.linkImg)" style="width:100px" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.active)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Product.TenPD)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "ViewEdit", new { idImg = item.idImg }) |
+                    @*@Html.ActionLink("Details", "Details", new { idPD = item.idPD }) |*@
+                    @Html.ActionLink("Delete", "Delete", new { idImg = item.idImg })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>

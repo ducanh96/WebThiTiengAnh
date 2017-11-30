@@ -1,0 +1,246 @@
+c:\users\dangt\onedrive\documents\visual studio 2015\Projects\Shop\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\ApplicationInsights.config
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\roslyn\csc.exe
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\roslyn\vbc.exe
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Shop.dll.config
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Shop.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Shop.pdb
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Antlr3.Runtime.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\EntityFramework.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.AI.Web.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.Owin.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.Owin.Security.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Newtonsoft.Json.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Owin.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\System.Web.Helpers.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\System.Web.Mvc.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\System.Web.Optimization.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\System.Web.Razor.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\System.Web.WebPages.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\System.Web.WebPages.Razor.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\WebGrease.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.AI.Web.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\System.Web.Helpers.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\System.Web.Mvc.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\System.Web.Optimization.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\System.Web.Razor.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\System.Web.WebPages.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\System.Web.WebPages.Razor.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Antlr3.Runtime.pdb
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Newtonsoft.Json.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\EntityFramework.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\EntityFramework.SqlServer.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.Owin.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.Owin.Security.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\Debug\Shop.dll
+C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\Debug\Shop.pdb
+E:\CNWeb\Shop\Shop\bin\ApplicationInsights.config
+E:\CNWeb\Shop\Shop\bin\roslyn\csc.exe
+E:\CNWeb\Shop\Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CNWeb\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CNWeb\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CNWeb\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CNWeb\Shop\Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CNWeb\Shop\Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CNWeb\Shop\Shop\bin\roslyn\System.Collections.Immutable.dll
+E:\CNWeb\Shop\Shop\bin\roslyn\System.Reflection.Metadata.dll
+E:\CNWeb\Shop\Shop\bin\roslyn\vbc.exe
+E:\CNWeb\Shop\Shop\bin\roslyn\VBCSCompiler.exe
+E:\CNWeb\Shop\Shop\bin\roslyn\VBCSCompiler.exe.config
+E:\CNWeb\Shop\Shop\bin\Shop.dll.config
+E:\CNWeb\Shop\Shop\bin\Shop.dll
+E:\CNWeb\Shop\Shop\bin\Shop.pdb
+E:\CNWeb\Shop\Shop\bin\Antlr3.Runtime.dll
+E:\CNWeb\Shop\Shop\bin\EntityFramework.dll
+E:\CNWeb\Shop\Shop\bin\EntityFramework.SqlServer.dll
+E:\CNWeb\Shop\Shop\bin\Microsoft.AI.Agent.Intercept.dll
+E:\CNWeb\Shop\Shop\bin\Microsoft.AI.DependencyCollector.dll
+E:\CNWeb\Shop\Shop\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\CNWeb\Shop\Shop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\CNWeb\Shop\Shop\bin\Microsoft.AI.Web.dll
+E:\CNWeb\Shop\Shop\bin\Microsoft.AI.WindowsServer.dll
+E:\CNWeb\Shop\Shop\bin\Microsoft.ApplicationInsights.dll
+E:\CNWeb\Shop\Shop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\CNWeb\Shop\Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\CNWeb\Shop\Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\CNWeb\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CNWeb\Shop\Shop\bin\Microsoft.Owin.dll
+E:\CNWeb\Shop\Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\CNWeb\Shop\Shop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\CNWeb\Shop\Shop\bin\Microsoft.Owin.Security.dll
+E:\CNWeb\Shop\Shop\bin\Microsoft.Owin.Security.Facebook.dll
+E:\CNWeb\Shop\Shop\bin\Microsoft.Owin.Security.Google.dll
+E:\CNWeb\Shop\Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\CNWeb\Shop\Shop\bin\Microsoft.Owin.Security.OAuth.dll
+E:\CNWeb\Shop\Shop\bin\Microsoft.Owin.Security.Twitter.dll
+E:\CNWeb\Shop\Shop\bin\Microsoft.Web.Infrastructure.dll
+E:\CNWeb\Shop\Shop\bin\Newtonsoft.Json.dll
+E:\CNWeb\Shop\Shop\bin\Owin.dll
+E:\CNWeb\Shop\Shop\bin\System.Web.Helpers.dll
+E:\CNWeb\Shop\Shop\bin\System.Web.Mvc.dll
+E:\CNWeb\Shop\Shop\bin\System.Web.Optimization.dll
+E:\CNWeb\Shop\Shop\bin\System.Web.Razor.dll
+E:\CNWeb\Shop\Shop\bin\System.Web.WebPages.Deployment.dll
+E:\CNWeb\Shop\Shop\bin\System.Web.WebPages.dll
+E:\CNWeb\Shop\Shop\bin\System.Web.WebPages.Razor.dll
+E:\CNWeb\Shop\Shop\bin\WebGrease.dll
+E:\CNWeb\Shop\Shop\bin\Microsoft.AI.DependencyCollector.xml
+E:\CNWeb\Shop\Shop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\CNWeb\Shop\Shop\bin\Microsoft.AI.Web.xml
+E:\CNWeb\Shop\Shop\bin\Microsoft.AI.WindowsServer.xml
+E:\CNWeb\Shop\Shop\bin\Microsoft.ApplicationInsights.xml
+E:\CNWeb\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CNWeb\Shop\Shop\bin\System.Web.Helpers.xml
+E:\CNWeb\Shop\Shop\bin\System.Web.Mvc.xml
+E:\CNWeb\Shop\Shop\bin\System.Web.Optimization.xml
+E:\CNWeb\Shop\Shop\bin\System.Web.Razor.xml
+E:\CNWeb\Shop\Shop\bin\System.Web.WebPages.xml
+E:\CNWeb\Shop\Shop\bin\System.Web.WebPages.Deployment.xml
+E:\CNWeb\Shop\Shop\bin\System.Web.WebPages.Razor.xml
+E:\CNWeb\Shop\Shop\bin\Antlr3.Runtime.pdb
+E:\CNWeb\Shop\Shop\bin\Newtonsoft.Json.xml
+E:\CNWeb\Shop\Shop\bin\EntityFramework.xml
+E:\CNWeb\Shop\Shop\bin\EntityFramework.SqlServer.xml
+E:\CNWeb\Shop\Shop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\CNWeb\Shop\Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\CNWeb\Shop\Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\CNWeb\Shop\Shop\bin\Microsoft.Owin.xml
+E:\CNWeb\Shop\Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\CNWeb\Shop\Shop\bin\Microsoft.Owin.Security.xml
+E:\CNWeb\Shop\Shop\bin\Microsoft.Owin.Security.Facebook.xml
+E:\CNWeb\Shop\Shop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\CNWeb\Shop\Shop\bin\Microsoft.Owin.Security.OAuth.xml
+E:\CNWeb\Shop\Shop\bin\Microsoft.Owin.Security.Google.xml
+E:\CNWeb\Shop\Shop\bin\Microsoft.Owin.Security.Twitter.xml
+E:\CNWeb\Shop\Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\CNWeb\Shop\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+E:\CNWeb\Shop\Shop\obj\Debug\Shop.dll
+E:\CNWeb\Shop\Shop\obj\Debug\Shop.pdb
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\ApplicationInsights.config
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\roslyn\csc.exe
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\roslyn\System.Collections.Immutable.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\roslyn\System.Reflection.Metadata.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\roslyn\vbc.exe
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\roslyn\VBCSCompiler.exe
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\roslyn\VBCSCompiler.exe.config
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Shop.dll.config
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Shop.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Shop.pdb
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Antlr3.Runtime.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\EntityFramework.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\EntityFramework.SqlServer.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.AI.DependencyCollector.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.AI.Web.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.AI.WindowsServer.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.ApplicationInsights.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.Owin.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.Owin.Security.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.Owin.Security.Google.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.Web.Infrastructure.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Newtonsoft.Json.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Owin.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\System.Web.Helpers.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\System.Web.Mvc.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\System.Web.Optimization.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\System.Web.Razor.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\System.Web.WebPages.Deployment.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\System.Web.WebPages.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\System.Web.WebPages.Razor.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\WebGrease.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.AI.DependencyCollector.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.AI.Web.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.AI.WindowsServer.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.ApplicationInsights.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\System.Web.Helpers.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\System.Web.Mvc.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\System.Web.Optimization.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\System.Web.Razor.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\System.Web.WebPages.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\System.Web.WebPages.Deployment.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\System.Web.WebPages.Razor.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Antlr3.Runtime.pdb
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Newtonsoft.Json.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\EntityFramework.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\EntityFramework.SqlServer.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.Owin.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.Owin.Security.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.Owin.Security.Google.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\obj\Debug\Shop.dll
+D:\CNWeb\KTraCHinh\Tạm\Shop\Shop\obj\Debug\Shop.pdb

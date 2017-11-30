@@ -1,0 +1,51 @@
+﻿@using Shop.Models.Entities
+@{ 
+    Layout = null;
+}
+@{ 
+    List<MenuCha> lst3 = (List<MenuCha>)ViewData["lstMenu"];
+   
+}
+    <div class="mainmenu-area">
+        <div class="container">
+            <div class="row">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="ddsmoothmenu" id="smoothmenu1">
+                    <ul>
+                        <li @ViewBag.index><a href="~/Home/Index">Home</a></li>
+                        <li @ViewBag.shop> <a href="~/Home/Shop?id=0">Shop page</a></li>
+                        <li @ViewBag.single><a href="~/Home/SingleProduct?idPD=10">Single product</a></li>
+                        <li @ViewBag.cart><a href="~/Home/Cart">Cart</a></li>
+                        <li @ViewBag.checkOut><a href="~/Home/CheckOut">Checkout</a></li>
+                        <li @ViewBag.Category>
+                            <a href="#">Category</a>
+                            <ul>
+                               @foreach (MenuCha pd in lst3)
+                               {
+                                   if (pd.isShow == true)
+                                   {
+                                    <li>      <a href="~/Home/Category?idCha=@pd.idCha">@pd.TenMenuCha</a></li>
+
+                                          
+                              
+                                   }
+
+                               }
+                               
+                            </ul>
+                        </li>
+                        <li><a href="#">Others</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div> <!-- End mainmenu area -->
+
