@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using WebTiengAnhCode.Models;
+using TiengAnhDB;
 
 namespace WebTiengAnhCode.Areas.admin.Models
 {
@@ -14,6 +16,46 @@ namespace WebTiengAnhCode.Areas.admin.Models
         public string DapAnC { get; set; }
         public string DapAnD { get; set; }
         public string DapAn { get; set; }
+        public static List<CauHoi> dsCauHoi
+        {
+            get
+            {
+                List<CauHoi> ch = new List<CauHoi>();
+                using (var db = new DBWebTiengAnhDataContext())
+                {
+                    foreach (var item in db.CauHois)
+                    {
+                        ch.Add(new CauHoi
+                        {
+                            ID = item.ID,
+                            DapAn = item.DapAn,
+                            DapAnA = item.DapAnA,
+                            DapAnB = item.DapAnB,
+                            DapAnD = item.DapAnD,
+                            DapAnC = item.DapAnC,
+                            TieuDe = item.TieuDe,
+                            topicDetail = new TopicDetail
+                            {
+                                noidung = item.ChiTietChuDe.NoiDung,
+                                topic = new Topic
+                                {
+                                    maTopic = item.ChiTietChuDe.ChuDe.ID
+                                }
+                            }
+                        });
+
+                    }
+
+                }
+                return ch;
+            }
+        }
+       
+           
+             
+        public TopicDetail topicDetail { get; set; }
+     
+
         private static List<CauHoi> lst = new List<CauHoi>()
         { new CauHoi()
                 {
@@ -67,9 +109,9 @@ namespace WebTiengAnhCode.Areas.admin.Models
                 },
                 };
 
-        public static  List<CauHoi> LayDSCauHoi(int MaTopic)
+        public static List<CauHoi> LayDSCauHoi(int MaTopic)
         {
-            return lst;
+            return dsCauHoi.Where(x => x.topicDetail.topic.maTopic == MaTopic).ToList();
         }
         public static bool deleteCauHoi(int ID)
         {
@@ -82,6 +124,6 @@ namespace WebTiengAnhCode.Areas.admin.Models
             else return false;
         }
     }
-  
+
 
 }

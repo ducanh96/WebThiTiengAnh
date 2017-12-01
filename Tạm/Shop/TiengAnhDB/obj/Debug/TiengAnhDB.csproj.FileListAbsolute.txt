@@ -1,0 +1,7 @@
+E:\ProjectThu4\WebThiTiengAnh\Tạm\Shop\TiengAnhDB\bin\Debug\TiengAnhDB.dll.config
+E:\ProjectThu4\WebThiTiengAnh\Tạm\Shop\TiengAnhDB\bin\Debug\TiengAnhDB.dll
+E:\ProjectThu4\WebThiTiengAnh\Tạm\Shop\TiengAnhDB\bin\Debug\TiengAnhDB.pdb
+E:\ProjectThu4\WebThiTiengAnh\Tạm\Shop\TiengAnhDB\obj\Debug\TiengAnhDB.csprojResolveAssemblyReference.cache
+E:\ProjectThu4\WebThiTiengAnh\Tạm\Shop\TiengAnhDB\obj\Debug\TiengAnhDB.csproj.CoreCompileInputs.cache
+E:\ProjectThu4\WebThiTiengAnh\Tạm\Shop\TiengAnhDB\obj\Debug\TiengAnhDB.dll
+E:\ProjectThu4\WebThiTiengAnh\Tạm\Shop\TiengAnhDB\obj\Debug\TiengAnhDB.pdb

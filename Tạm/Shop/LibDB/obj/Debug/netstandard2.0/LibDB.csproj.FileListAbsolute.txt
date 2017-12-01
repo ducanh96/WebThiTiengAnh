@@ -1,0 +1,4 @@
+E:\ProjectThu4\WebThiTiengAnh\Tạm\Shop\LibDB\obj\Debug\netstandard2.0\LibDB.csprojResolveAssemblyReference.cache
+E:\ProjectThu4\WebThiTiengAnh\Tạm\Shop\LibDB\obj\Debug\netstandard2.0\LibDB.csproj.CoreCompileInputs.cache
+E:\ProjectThu4\WebThiTiengAnh\Tạm\Shop\LibDB\obj\Debug\netstandard2.0\LibDB.AssemblyInfoInputs.cache
+E:\ProjectThu4\WebThiTiengAnh\Tạm\Shop\LibDB\obj\Debug\netstandard2.0\LibDB.AssemblyInfo.cs

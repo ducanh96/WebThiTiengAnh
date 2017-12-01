@@ -13,7 +13,7 @@ namespace WebTiengAnhCode.Areas.admin.Controllers
         // GET: admin/CauHoi
         public ActionResult Index()
         {
-            ViewData["lstDocPart1"] = CauHoiUI.getDSCauHoiDocPart1();
+            ViewData["lstDocPart1"] = CauHoiUI.HienThiDSCauHoi(1);
             return View();
         }
         public ActionResult Delete(int ID)
